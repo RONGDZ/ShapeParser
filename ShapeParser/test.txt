@@ -1,0 +1,4 @@
+line stroke-width 10 stroke 0xFF00FF opacity 100 xy 0,0 100,0 100,100 0,100
+line 0,0 200,0 200,100 0,100
+polygen stroke-width 10  fill 0xFF00FF stroke 0xFFFF00FF offset 100,100 outline 0,0 100,0 100,100 0,100
+line tag 1,2 4 test info 5 5 t1 test1 t2 test2 outline  0,0 200,0 200,100 0,100
